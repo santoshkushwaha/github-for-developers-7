@@ -8,4 +8,4 @@
 
 **A hobby:** Listening to Music
 
-** A favorite color:** Blue
+**A favorite color:** Blue
