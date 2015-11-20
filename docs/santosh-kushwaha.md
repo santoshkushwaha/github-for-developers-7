@@ -1,4 +1,9 @@
-Santosh Kushwaha
-Uttar Pradesh, India
-Chilli Chicken Fried Rice
-Listening to Music
+### Bio
+
+**Name:** Santosh Kushwaha
+
+**Location:** Uttar Pradesh, India
+
+**A favourite food:** Chilli Chicken Fried Rice
+
+**A hobby:** Listening to Music
